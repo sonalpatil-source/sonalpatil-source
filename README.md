@@ -84,22 +84,15 @@ I’m *Sonal Patil*, a passionate Full Stack Developer, Mentor, and Technical Tr
 
 ##  Upcoming Projects
 
-1. *FLAT MATE* - [Upcoming]
-2. *NODE NET* - [Upcoming]
-3. *ENGIWORLD* - [Upcoming]
-4. *TEAMO :DIY STORE* - [Upcoming]
-5. *DAILY ROUTINE TRACKER* - [Upcoming]
+
 
 ---
 
-## 🛠️ IoT Projects (Patented)
 
-1. *WOMEN SAFETY DEVICE* 
-2. *IOT BASED NOVEL SCENNER*
 
----
 
-## 📖 Author of Books
+
+##Author of Books
 
 1. *LAST SIX DAYS*
 2. *THE LOVE I CANT HOLD*
@@ -109,7 +102,7 @@ I’m *Sonal Patil*, a passionate Full Stack Developer, Mentor, and Technical Tr
 6. *IS THIS FIRST ?*
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
   
   <!-- Streak Stats -->
