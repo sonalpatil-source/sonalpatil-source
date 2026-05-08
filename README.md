@@ -1,106 +1,127 @@
-<h1 align="center">Hi 👋, I'm Sonal Patil</h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
+<h1 align="center">Sonal Patil</h1>
+
+<h3 align="center">
+Web Developer • AI & IoT Enthusiast • Backend Learner
+</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mentor+%26+Technical+Trainer;+Enthusiast;Building+Scalable+Web+Apps" alt="" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Web+Development+%7C+AI+%7C+IoT;Exploring+Backend+Systems+and+Automation;Learning+System+Design+and+Scalable+Architecture;Interested+in+Cybersecurity+and+Cloud+Technologies;Building+Practical+and+Efficient+Applications" />
 </p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="mailto:sonalsmita.patil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
- <!-- <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a> -->
-   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
-
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
-##  About Me
-
-I’m *Sonal Patil*, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
-
--  I currently work as a *Mentor & Trainer, delivering technical guidance and project-based learning under **DevineTech Solutions*, where I focus on practical development, architecture clarity, and industry-ready skills.
--  Alongside this, I am actively working with *Dexpert Systems*, contributing to development and learning in advanced system design and modern technology stacks.
-
-### What I Do
--  Full Stack Web Development (Frontend & Backend)
--  Mentoring & Training aspiring developers
--  Project Architecture & System Design
--  Research-oriented and problem-solving based development
--  Guiding interns on real-world applications and best practices
-
-###  Interests
--  AI-assisted systems & automation
--  Clean code, system thinking, and product mindset
--  Teaching through real projects
-
-### Philosophy
-> "Build with purpose. Learn continuously. Teach what you master."
-
-<br>
-
-## 💻 Tech Stack
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <br>
-  <!-- Frontend & Backend -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <br>
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <br>
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="AmazonDynamoDB" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <br>
-  <!-- Tools & Testing -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-</p>
-
-<br>
-
-##  Upcoming Projects
-
-
-
-
-## GitHub Stats
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
-</div>
-
-<br>
-
-
-
-<br>
-
-
 
 ---
-<div align="center">
-  <i>"Programming isn't about what you know; it's about what you can figure out."<br>Let's build something amazing! </i>
-</div>
+
+## Overview
+
+I am a developer interested in building practical applications and continuously improving my understanding of modern technologies through hands-on development and problem solving.
+
+My primary focus areas include web development, backend systems, Artificial Intelligence, Internet of Things (IoT), automation, and scalable software architecture.
+
+I enjoy learning how systems work internally and exploring technologies that solve real-world problems efficiently.
+
+---
+
+## Interests
+
+- Web Development  
+- Backend Development  
+- APIs & Authentication  
+- Database Design  
+- Artificial Intelligence (Basic Applications)  
+- Internet of Things (IoT - Basics) 
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql" />
+</p>
+
+---
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react" />
+</p>
+
+---
+
+### Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql" />
+</p>
+
+---
+
+### AI, IoT & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode" />
+</p>
+
+---
+
+## Currently Exploring
+
+- Backend Development
+- REST APIs
+- Authentication Systems
+- AI-assisted Applications
+- IoT-based Systems
+- Cloud Computing Fundamentals
+- Cybersecurity Fundamentals
+- Scalable System Design
+- Clean Code Practices
+
+---
+
+<!--## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+</p>-->
+
+---
+
+## Connect
+
+<p>
+  <a href="mailto:sonalsmita.patil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sonal-patil-b8b87b31a?">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>
+    “Technology becomes meaningful when it is used to solve real problems.”
+  </i>
+</p>
