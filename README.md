@@ -39,7 +39,7 @@ I’m *Sonal Patil*, a passionate Full Stack Developer, Mentor, and Technical Tr
 -  Clean code, system thinking, and product mindset
 -  Teaching through real projects
 
-### 📌 Philosophy
+### Philosophy
 > "Build with purpose. Learn continuously. Teach what you master."
 
 <br>
@@ -86,25 +86,8 @@ I’m *Sonal Patil*, a passionate Full Stack Developer, Mentor, and Technical Tr
 
 
 
----
-
-
-
-
-
-##Author of Books
-
-1. *LAST SIX DAYS*
-2. *THE LOVE I CANT HOLD*
-3. *THE TUNNEL PARADOX*
-4. *I KILLED MYSELF*
-5. *THE FALL OF YASAKA*
-6. *IS THIS FIRST ?*
-
 
 ## GitHub Stats
-
-  
   <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
 </div>
@@ -115,15 +98,6 @@ I’m *Sonal Patil*, a passionate Full Stack Developer, Mentor, and Technical Tr
 
 <br>
 
-<!-- Optional: Snake Animation - You can easily set this up with a GitHub Action if you don't have it yet! -->
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>  -->
 
 
 ---
