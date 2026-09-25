@@ -1,11 +1,11 @@
 <h1 align="center">Sonal Patil</h1>
 
 <h3 align="center">
-Computer Science Student • Data Analysis • Software Testing • Python & SQL
+Computer Science Student • Software Development • Data Analysis • Testing
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Exploring+Data+Analysis+%7C+Software+Testing;Learning+Python+%7C+SQL+%7C+Excel;Building+Practical+Projects;Exploring+AI+and+Backend+Technologies;Preparing+for+Industry+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Exploring+Software+Development+%7C+Data+Analysis;Learning+Python+%7C+SQL+%7C+Java;Building+Web+and+Backend+Applications;Exploring+Software+Testing+and+QA;Interested+in+AI%2C+Cloud+and+Automation" />
 </p>
 
 ---
@@ -14,23 +14,28 @@ Computer Science Student • Data Analysis • Software Testing • Python & SQL
 
 I am a Computer Science student interested in building practical software solutions and developing industry-relevant technical skills.
 
-Currently, I am focusing on **Data Analysis, Software Testing, Python, SQL, and Excel**, while continuing to explore backend development, Artificial Intelligence, and other emerging technologies.
+My current areas of interest include **software development, web development, backend development, data analysis, software testing, Python, SQL, databases, and Artificial Intelligence**.
 
-I enjoy learning through hands-on projects, problem solving, and understanding how real-world software systems work.
+I enjoy learning through hands-on projects, problem solving, and exploring how real-world software systems are designed and developed.
 
 ---
 
 ## Current Focus
 
+* Software Development
+* Web Development
+* Backend Development
 * Data Analysis
 * Software Testing & QA
 * Python Programming
+* Java Programming
 * SQL & Database Management
-* Microsoft Excel
-* Web & Backend Fundamentals
+* API Development & Testing
 * Artificial Intelligence & Generative AI
 * Git & GitHub
-* Cloud & Cybersecurity Fundamentals
+* Cloud Computing Fundamentals
+* Cybersecurity Fundamentals
+* Automation
 
 ---
 
@@ -45,6 +50,15 @@ I enjoy learning through hands-on projects, problem solving, and understanding h
   <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql" />
 </p>
 
+### Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+</p>
+
 ### Data & Databases
 
 <p>
@@ -52,15 +66,7 @@ I enjoy learning through hands-on projects, problem solving, and understanding h
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql" />
 </p>
 
-### Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap" />
-</p>
-
-### Testing & Development Tools
+### Testing, APIs & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman" />
@@ -74,35 +80,36 @@ I enjoy learning through hands-on projects, problem solving, and understanding h
 ## Currently Learning
 
 * Python for Data Analysis
-* SQL for Data Analysis
+* SQL & Database Management
 * Excel & Data Visualization
+* Web Development
+* Backend Development
+* REST APIs
 * Manual Software Testing
 * Test Case Design
 * API Testing
-* Software Development Life Cycle (SDLC)
-* Software Testing Life Cycle (STLC)
-* REST APIs
-* Backend Fundamentals
+* SDLC & STLC
 * Generative AI
-* Cloud Computing Fundamentals
+* Cloud Computing
 * Cybersecurity Fundamentals
+* Automation
 
 ---
 
 ## Projects
 
-I am currently building projects to strengthen my practical understanding of programming, databases, data analysis, and software testing.
+I am building practical projects to strengthen my understanding of programming, software development, databases, data analysis, and testing.
 
-### Areas I'm Building Projects In
+### Areas of Development
 
-* Data Analysis & Visualization
-* Software Testing & QA
+* Web Applications
+* Backend Applications
+* Data Analysis Projects
 * Python Applications
 * SQL & Database Projects
-* Web Applications
+* Software Testing Projects
+* API Testing Projects
 * AI-assisted Applications
-
-More projects coming soon...
 
 ---
 
@@ -117,16 +124,24 @@ More projects coming soon...
 
 ## Career Interests
 
-I am currently exploring internship opportunities in:
+I am currently exploring internship and entry-level opportunities in:
 
-* Data Analyst / Data Analytics
-* Software Testing / QA
-* Test Engineer
+* Software Developer
+* Software Engineer
+* Web Developer
+* Frontend Developer
+* Backend Developer
+* Full Stack Developer
 * Python Developer
-* Backend Development
-* Software Development
+* Data Analyst
+* Data Analytics
+* Software Tester
+* QA Engineer
+* Test Engineer
+* API Tester
 * Database / SQL-related roles
 * AI & Automation
+* Cloud-related roles
 * Other entry-level technology roles
 
 ---
